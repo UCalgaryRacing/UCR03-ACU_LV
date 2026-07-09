@@ -1,0 +1,9 @@
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+.settings/
+
+# Build output folders
+Debug/
+Release/
